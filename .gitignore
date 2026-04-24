@@ -48,6 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 /vendor
+/vendors
 /node_modules
 /.env
 /public/storage
